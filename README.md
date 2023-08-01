@@ -27,7 +27,5 @@
 
 ![Biswajits's! GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbiswajit&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiswajit&hide_progress=true)
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabbiswajit&show_icons=true&locale=en&layout=compact" alt="gabbiswajit" /></p>
