@@ -6,24 +6,11 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-- 🔭 I’m currently working on **Pocketmine Code**
+### Poggit plugins:
 
-- 🌱 I’m currently learning **Php**
-
-- 👯 I’m looking to collaborate on **Discord**
-
-- 👨‍💻 All of my projects are available at [https://github.com/GabBiswajit](https://github.com/GabBiswajit)
-
-- 📝 I regularly make video on [YouTube](YouTube)
-
-- 💬 Ask me about **Pocketmine Plugin**
-
-- 📫 How to reach me **inggaming21@gmail.com**
-
-- 📄 Know about my experiences [https://discord.gg/3XTBAWY9](https://discord.gg/3XTBAWY9)
-
-- ⚡ Fun fact **I Think I Am Funny**
-
+| **Plugins** | **State** | **API** | **Download Total** |
+| --- | --- | --- | --- |
+| **Lifesteal** | [![](https://poggit.pmmp.io/shield.state/Lifesteal)](https://poggit.pmmp.io/p/Lifesteal) | [![](https://poggit.pmmp.io/shield.api/Lifesteal)](https://poggit.pmmp.io/p/Lifesteal) | [![](https://poggit.pmmp.io/shield.dl.total/Lifesteal)](https://poggit.pmmp.io/p/Lifesteal)
 
 
 ![Biswajits's! GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbiswajit&show_icons=true&theme=radical)
