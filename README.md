@@ -11,8 +11,7 @@
 | **Plugins** | **State** | **API** | **Download Total** |
 | --- | --- | --- | --- |
 | **Lifesteal** | [![](https://poggit.pmmp.io/shield.state/Lifesteal)](https://poggit.pmmp.io/p/Lifesteal) | [![](https://poggit.pmmp.io/shield.api/Lifesteal)](https://poggit.pmmp.io/p/Lifesteal) | [![](https://poggit.pmmp.io/shield.dl.total/Lifesteal)](https://poggit.pmmp.io/p/Lifesteal)
-| **SuperItemsShop** | [![](https://poggit.pmmp.io/shield.state/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop) | [![](https://poggit.pmmp.io/shield.api/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop) | [![](https://poggit.pmmp.io/shield.dl.total/Lifesteal)](https://poggit.pmmp.io/p/SuperItemsShop)
-
+| **SuperItemsShop** | [![](https://poggit.pmmp.io/shield.state/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop) | [![](https://poggit.pmmp.io/shield.api/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop) | [![](https://poggit.pmmp.io/shield.dl/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop)
 
 ![Biswajits's! GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbiswajit&show_icons=true&theme=radical)
 
