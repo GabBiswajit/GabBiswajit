@@ -14,6 +14,7 @@
 | **SuperItemsShop** | [![](https://poggit.pmmp.io/shield.state/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop) | [![](https://poggit.pmmp.io/shield.api/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop) | [![](https://poggit.pmmp.io/shield.dl.total/SuperItemsShop)](https://poggit.pmmp.io/p/SuperItemsShop)
 | **ProfileUI** | [![](https://poggit.pmmp.io/shield.state/Profile-Ui)](https://poggit.pmmp.io/p/Profile-Ui) | [![](https://poggit.pmmp.io/shield.api/Profile-Ui)](https://poggit.pmmp.io/p/Profile-Ui) | [![](https://poggit.pmmp.io/shield.dl.total/Profile-Ui)](https://poggit.pmmp.io/p/Profile-Ui)
 | **ImagesLoader** | [![](https://poggit.pmmp.io/shield.state/ImagesLoader)](https://poggit.pmmp.io/p/ImagesLoader) | [![](https://poggit.pmmp.io/shield.api/ImagesLoader)](https://poggit.pmmp.io/p/ImagesLoader) | [![](https://poggit.pmmp.io/shield.dl.total/ImagesLoader)](https://poggit.pmmp.io/p/ImagesLoader)
+| **Hardcore** | [![](https://poggit.pmmp.io/shield.state/Hardcore)](https://poggit.pmmp.io/p/Hardcore) | [![](https://poggit.pmmp.io/shield.api/Hardcore)](https://poggit.pmmp.io/p/Hardcore) | [![](https://poggit.pmmp.io/shield.dl.total/Hardcore)](https://poggit.pmmp.io/p/Hardcore)
 
 ![Biswajits's! GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbiswajit&show_icons=true&theme=radical)
 
