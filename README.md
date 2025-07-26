@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabbiswajit&label=Profile%20views&color=0e75b6&style=flat" alt="gabbiswajit" /> </p>
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 ### Poggit plugins:
 
 | **Plugins** | **State** | **API** | **Download Total** |
