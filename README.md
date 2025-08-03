@@ -50,6 +50,6 @@
 
 ## 📫 Connect with Me
 
-- Discord: `yourDiscord#1234`
+- Discord: `wenox0379`
 - GitHub: [@gabbiswajit](https://github.com/gabbiswajit)
 - Poggit: [View My Plugins](https://poggit.pmmp.io/user/gabbiswajit)
