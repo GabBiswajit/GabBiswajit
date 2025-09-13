@@ -12,6 +12,7 @@
 
 | **Plugin** | **Status** | **API** | **Downloads** |
 |-----------|------------|---------|----------------|
+| [**Lifesteal**](https://poggit.pmmp.io/p/Lifesteal) | ![](https://poggit.pmmp.io/shield.state/Lifesteal) | ![](https://poggit.pmmp.io/shield.api/Lifesteal) | ![](https://poggit.pmmp.io/shield.dl.total/SuperItemsShop) |
 | [**SuperItemsShop**](https://poggit.pmmp.io/p/SuperItemsShop) | ![](https://poggit.pmmp.io/shield.state/SuperItemsShop) | ![](https://poggit.pmmp.io/shield.api/SuperItemsShop) | ![](https://poggit.pmmp.io/shield.dl.total/SuperItemsShop) |
 | [**SkyblockGB**](https://poggit.pmmp.io/p/SkyblockGB) | ![](https://poggit.pmmp.io/shield.state/SkyblockGB) | ![](https://poggit.pmmp.io/shield.api/SkyblockGB) | ![](https://poggit.pmmp.io/shield.dl.total/SkyblockGB) |
 | [**ProfileUI**](https://poggit.pmmp.io/p/Profile-Ui) | ![](https://poggit.pmmp.io/shield.state/Profile-Ui) | ![](https://poggit.pmmp.io/shield.api/Profile-Ui) | ![](https://poggit.pmmp.io/shield.dl.total/Profile-Ui) |
