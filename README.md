@@ -1,5 +1,4 @@
- <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+There!+Biswajit+Here+👋;Self-Taught+PHP+Developer+👨‍💻;Minecraft+Server+Dev+🧠;FrostNetwork+Owner+🌨️"></a> </p>+There!+Biswajit+Here+👋;Self-Taught+PHP+Developer+👨‍💻;Minecraft+Server+Dev+🧠;FrostNetwork+Owner+🌨️"></a> </p>
-
+ <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+There!+Biswajit+Here+👋;Self-Taught+PHP+Developer+👨‍💻;Minecraft+Server+Dev+🧠;FrostNetwork+Owner+🌨️">
 
 <h3 align="center"> A Minecraft PHP Developer from India !!</h3>
 
